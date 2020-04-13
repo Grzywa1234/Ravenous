@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './BusinessList.js';
 import Business from '../Business/Business';
 
+
 class BusinessList extends React.Component {
     render() {
         return(
